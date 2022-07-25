@@ -9,7 +9,7 @@ export default function HeaderServices() {
       />
        <HeaderServiceItem
         title="UI UX Design"
-        desc="Research user experience design, analysis and support"
+        desc="Research user experience design,user interface design, analysis and support"
       />
        <HeaderServiceItem
         title="Long-Term Support"
